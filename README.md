@@ -5,6 +5,6 @@
 - CRUD Product
 - CRUD Category
  - CRUD Order
-- Review
+- Review Product
 - Google Auth
 - Validator
